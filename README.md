@@ -11,8 +11,7 @@
   - Ubuntu 
   - Black Arch
 - 📫 To reach me, through Instagram @im_h4ckr_ankit
-- 😄 Pronouns: Hacker Ankit 
-- ⚡ Fun fact: I hate relationships because I am single 😂
+- 😄 Pronouns: Hacker Ankit
 - ⚠️ please don't ask me for any social media account hack 🥴.
 
 <!---
