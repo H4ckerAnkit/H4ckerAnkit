@@ -12,7 +12,7 @@
   - Black Arch
 - 📫 To reach me, through Instagram @im_h4ckr_ankit
 - 😄 Pronouns: Hacker Ankit
-- ⚠️ please don't ask me for any social media account hack 🥴.
+- ⚠️ please don't ask me for any social media account hacking 🥴.
 
 <!---
 H4ckerAnkit/H4ckerAnkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
