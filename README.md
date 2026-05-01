@@ -5,12 +5,12 @@
 - 😎 Good knowledge in:-
 • Web Dev (full-stack).
 • Great knowledge of Windows, Linux and MacOs.
-• Linux Distributions, I use often:- 
+• Linux Distributions, I often use:- 
   - Kali Linux 
   - Parrot OS 
   - Ubuntu 
   - Black Arch
-- 📫 To reach me, through Instagram @im_h4ckr_ankit
+- 📫 To reach me, through Instagram @sudo.ankit
 - 😄 Pronouns: Hacker Ankit
 - ⚠️ please don't ask me for any social media account hacking 🥴.
 
