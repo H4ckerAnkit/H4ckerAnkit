@@ -10,7 +10,7 @@
   - Parrot OS 
   - Ubuntu 
   - Black Arch
-- 📫 To reach me, through Instagram @sudo.ankit
+- 📫 To reach me, through Instagram @shrmankt
 - 😄 Pronouns: Hacker Ankit
 - ⚠️ please don't ask me for any social media account hacking 🥴.
 
