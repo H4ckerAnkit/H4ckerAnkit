@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit from New Delhi.
 - 🎒 Pursuing BCA with Cyber Security at Gurugram University.
-- Cybersecurity Enthusiast, Web-Developer & Ethical Hacker Essentials (EHE) EC - COUNCIL.
+- Cybersecurity Enthusiast, Web-Developer & Ethical Hacking Essentials (EHE) EC - COUNCIL.
 - 👀 I’m interested in learning Programming Languages, Cybersecurity and Ethical Hacking.
 - 😎 Good knowledge in:-
 • Web Dev (full-stack).
