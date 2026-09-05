@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit from New Delhi.
 - 🎒 Pursuing BCA with Cyber Security at Gurugram University.
-- Cyber Security Student, Programmer, Ethical Hacker(not certified yet 😅)
-- 👀 I’m interested in learning Programming and Ethical Hacking.
+- Cybersecurity Enthusiast, Web-Developer & Ethical Hacker Essentials (EHE) EC - COUNCIL.
+- 👀 I’m interested in learning Programming Languages, Cybersecurity and Ethical Hacking.
 - 😎 Good knowledge in:-
 • Web Dev (full-stack).
 • Great knowledge of Windows, Linux and MacOs.
@@ -11,10 +11,4 @@
   - Ubuntu 
   - Black Arch
 - 📫 To reach me, through Instagram @shrmankt
-- 😄 Pronouns: Hacker Ankit
 - ⚠️ please don't ask me for any social media account hacking 🥴.
-
-<!---
-H4ckerAnkit/H4ckerAnkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
